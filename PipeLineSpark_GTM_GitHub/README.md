@@ -8,10 +8,6 @@ An end-to-end outbound sales engine built in Python. Takes a raw lead list and t
 
 Most outbound teams spend hours manually pulling lists, researching companies, and writing copy. This toolkit automates the entire workflow — from raw Apollo export to live campaign — in under 30 minutes.
 
-**Results from production use:**
-- 4,000+ leads enriched across MSP, legaltech, and commercial cleaning verticals
-- Sub-30 minute turnaround from raw CSV to live Instantly campaign
-- Bounce rate held under 2% via automated campaign auditing
 
 ---
 
